@@ -1,1 +1,1 @@
-# rhods-stocks
+# rhoai-stocks-notebooks
